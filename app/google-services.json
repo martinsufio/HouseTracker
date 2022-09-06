@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917723868675",
+    "project_id": "house-tracker-3b1fb",
+    "storage_bucket": "house-tracker-3b1fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917723868675:android:5d7e4c783e37b064d26836",
+        "android_client_info": {
+          "package_name": "com.housetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917723868675-piu7i3qgmpnqi10rerpicg5gt08b27kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7kHSFeEJQxMTjzmnUzIa-cWt1X5_-K9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917723868675-piu7i3qgmpnqi10rerpicg5gt08b27kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
